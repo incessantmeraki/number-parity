@@ -21,6 +21,7 @@ No. of bits of an integer determines parity of a number. If it is even, parity i
 ### API
 
 #### `number-parity(n)`
+returns parity of n
 
 ## License
 
