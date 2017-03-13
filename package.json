@@ -1,0 +1,24 @@
+{
+  "name": "number-parity",
+  "version": "1.0.0",
+  "description": "returns parity of an integer",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/incessantmeraki/number-parity.git"
+  },
+  "keywords": [
+    "number",
+    "parity",
+    "bitwise"
+  ],
+  "author": "Ashwin Kandel",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/incessantmeraki/number-parity/issues"
+  },
+  "homepage": "https://github.com/incessantmeraki/number-parity#readme"
+}
