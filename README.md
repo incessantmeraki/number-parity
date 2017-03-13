@@ -18,6 +18,10 @@ No. of bits of an integer determines parity of a number. If it is even, parity i
   console.log(parity(42)) // 1
 ```
 
+### API
+
+#### `number-parity(n)`
+
 ## License
 
 MIT
