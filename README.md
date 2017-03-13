@@ -7,13 +7,13 @@ No. of bits of an integer determines parity of a number. If it is even, parity i
 ### Installation
 
 ```sh
-  $ git clone https://github.com/incessantmeraki/number-parity.git
+  $ npm install number-parity
 ```
 
 ### Example
 
 ```js
-  var parity = require('./number-parity')
+  var parity = require('number-parity')
   console.log(parity(34)) // 0
   console.log(parity(42)) // 1
 ```
